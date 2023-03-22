@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598798674292",
+    "project_id": "film-ac98e",
+    "storage_bucket": "film-ac98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598798674292:android:e24c1fefb1558efcc9e421",
+        "android_client_info": {
+          "package_name": "com.example.studentmanager21it590"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598798674292-iovlbtd0k4sqh53sbp6p148e9po902rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0LLIPIqlBq-ffa-LZaWiVtwSoSM_XXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598798674292-iovlbtd0k4sqh53sbp6p148e9po902rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

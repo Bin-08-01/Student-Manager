@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentManager21IT590</string>
+    <string name="name_student">Name Student</string>
+    <string name="m_sinh_vi_n">Mã Sinh Viên</string>
+    <string name="loading_data">Loading data</string>
+    <string name="ma_sinh_vien">Mã Sinh Viên</string>
+</resources>
